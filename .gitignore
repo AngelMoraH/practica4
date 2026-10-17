@@ -1,0 +1,4 @@
+*.pdf
+*/
+!artifacts/
+!artifacts/**
